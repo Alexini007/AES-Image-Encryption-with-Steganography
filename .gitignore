@@ -1,0 +1,17 @@
+# Ignore IntelliJ IDEA project-specific files
+.idea/
+*.iml
+
+# Ignore compiled output
+/out/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore build artifacts
+/build/
+/target/

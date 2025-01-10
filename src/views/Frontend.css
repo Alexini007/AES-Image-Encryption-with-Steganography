@@ -1,0 +1,38 @@
+.encrypt-button {
+    -fx-background-color: #2596be;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-font-size: 14px;
+}
+
+.decrypt-button {
+    -fx-background-color: #2596be;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-font-size: 14px;
+}
+
+.encode-button {
+    -fx-background-color: #2596be;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-font-size: 14px;
+}
+
+.decode-button {
+    -fx-background-color: #2596be;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-font-size: 14px;
+}
+
+.upload-button {
+    -fx-background-color: #2596be;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-font-size: 14px;
+}
+
+.whole {
+    -fx-background-color: #fff9e6;
+}
